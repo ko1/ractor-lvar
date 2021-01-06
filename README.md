@@ -1,5 +1,7 @@
 # Ractor::LVar
 
+NOTE: This gem is experimental and I don't guarantee to continue maintenance of this gem.
+
 More flexible Ractor-local variable object.
 
 ```ruby
